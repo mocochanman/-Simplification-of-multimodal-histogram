@@ -9,9 +9,18 @@
 ## fitting_hist.py
 ### input  > file name, epsilon
 
+ex.) Daily new infection of covid-19 in Japan
+![スクリーンショット (2)](https://user-images.githubusercontent.com/76963769/115184972-e4cfa580-a119-11eb-9ac0-d79ea74e914b.png)
+
+
 ### output > epsilon, num of peak, L2-norm, processing time and figure
+ex.) Daily new infection of covid-19 in Japan
+![スクリーンショット (3)](https://user-images.githubusercontent.com/76963769/115185003-f153fe00-a119-11eb-8663-e8b839f5ae02.png)
+
 
 ### please save the data as csv and work in the same directory.
+
+
 
 ## gaussian_fitting.ipynb
 ### This is a program that calculates the Gaussian approximation for each specified interval.
