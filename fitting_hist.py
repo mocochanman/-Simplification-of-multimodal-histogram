@@ -20,7 +20,7 @@ def main_algo(right, x, f, prefix_f, ff):
 
 name = input("file name >>> ")
 
-data = pd.read_csv("/Users/noguchimakoto/study/opt_hist/csv_data/"+str(name)+".csv")
+data = pd.read_csv(str(name)+".csv")
 f_origin = list(data['cases'])
 f_origin = np.array(f_origin)
 
