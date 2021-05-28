@@ -10,6 +10,7 @@
 ### input  > file name, epsilon
 
 ex.) Daily new infection of covid-19 in Japan
+data from 厚生労働省　オープンデータ, https://www.mhlw.go.jp/stf/covid-19/open-data.html, access at 2021/04/20
 ![スクリーンショット (2)](https://user-images.githubusercontent.com/76963769/115184972-e4cfa580-a119-11eb-9ac0-d79ea74e914b.png)
 
 
