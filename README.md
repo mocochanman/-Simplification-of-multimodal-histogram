@@ -1,4 +1,4 @@
-# -Simplification-of-multimodal-histogram
+# Simplification-of-multimodal-histogram
 
 ### This is an academic R&D code.
 ### The multimodal histogram is cut and approximated for each single peak so that the error is below an arbitrary threshold.
